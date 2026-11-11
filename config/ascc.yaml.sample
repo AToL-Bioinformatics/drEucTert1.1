@@ -1,0 +1,8 @@
+reads_path:
+  - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-forest-pacbio-hifi-645600-m84118_260703_021115_s1.fastq.gz
+reads_type: "hifi"
+reads_layout: "SINGLE"
+sample_id: "drEucTert1"
+scientific_name: "Eucalyptus tereticornis"
+busco_lineages: "eudicots_odb10"
+taxid: 183855

@@ -1,0 +1,30 @@
+{
+  "assembly_version": 1,
+  "dataset_id": "drEucTert1",
+  "scientific_name": "Eucalyptus tereticornis",
+  "taxon_id": 183855,
+  "busco_odb10_dataset_name": "eudicots",
+  "busco_odb12_dataset_name": "eudicotyledons",
+  "ncbi_class": "Magnoliopsida",
+  "find_plastid": true,
+  "hic_motif": "GATC,GANTC,CTNAG,TTAA",
+  "mitochondrial_genetic_code_id": 1,
+  "mitohifi_reference_species": "Brassica napus",
+  "oatk_hmm_name": "magnoliopsida",
+  "augustus_dataset_name": "tiberius_model_cfg:angiosperms.yaml",
+  "genetic_code_id": 1,
+  "assembly_id": "d014dcc5-148e-4dc3-b3af-e67bab0a967a",
+  "read_files": [
+    {
+      "name": "bpa-forest-pacbio-hifi-645600-m84118_260703_021115_s1",
+      "data_type": "PACBIO_SMRT",
+      "base_url": "https://downloads-qcif.bioplatforms.com/bpa/forest_staging/pacbio-hifi/BPAOPS-2134/20260703_FOR_BRF_m84118_260703_021115_s1/",
+      "single_end": [
+        {
+          "url": "https://data.bioplatforms.com/dataset/bpa-forest-pacbio-hifi-645600-m84118_260703_021115_s1/resource/6718ccb64345b1f707aad00ebda64954/download/645600_FOR_BRF_m84118_260703_021115_s1.hifi_reads.bc2012.bam",
+          "md5sum": "6718ccb64345b1f707aad00ebda64954"
+        }
+      ]
+    }
+  ]
+}

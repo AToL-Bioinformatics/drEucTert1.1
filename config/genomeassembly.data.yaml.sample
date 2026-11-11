@@ -1,0 +1,5 @@
+
+- id: drEucTert1
+  platform: pacbio_hifi
+  reads:
+    - ${PWD}/results/qc/reads/PACBIO_SMRT/bpa-forest-pacbio-hifi-645600-m84118_260703_021115_s1.fastq.gz
